@@ -12,7 +12,7 @@ My projects are available at the [Github repositories page](https://github.com/l
 
 <details>
 <summary>Preferred communication way is</summary>
-  <br> <a href="mailto:linux8a@gmail.com" target="blank"><img align="center" src="https://media.macosicons.com/parse/files/macOSicons/a3a95b3e8765a81a8bd660dba309e3bf_low_res_mail_dark_mode_jpg.png" alt="mail" height="20" width="20" /></a> </li>
+  <br> <a href="mailto:linux8a@gmail.com" target="blank"><img align="center" src="https://media.macosicons.com/parse/files/macOSicons/a3a95b3e8765a81a8bd660dba309e3bf_low_res_mail_dark_mode_jpg.png" alt="mail" height="20" width="20" /></a> and <a href="https://t.me/linux8a" target="blank"><img align="center" src="https://media.macosicons.com/parse/files/macOSicons/2f77f47f38278d19dd9b671e4fd38dec_low_res_Telegram.png" alt="linux8a" height="20" width="20" /></a>
   
 </details>
 

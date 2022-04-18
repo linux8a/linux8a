@@ -1,14 +1,10 @@
-<header>
-Profile
-============
-</header>
+
+<h2 align="center"> "Do nothing out of contentiousness or out of egotism, but with humility consider others superior to you.." </h2>
+<h3 align="center">👆🏻 Motto to Live By:</h3>
+
+----
 
 
-<p align="center"> "Do nothing out of contentiousness or out of egotism, but with humility consider others superior to you.." </p>
-<p align="center">👆🏻 Motto to Live By:</p>
-
-My proyects
-=======
 My projects are available at the [Github repositories page](https://github.com/linux8a?tab=repositories)
 
 

@@ -18,9 +18,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux8a&theme=dark" alt="linux8a" />
 </a>
-</p> -->
+</p> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=linux8a&column=3" alt="codeshard" />
-</p>
+</p> -->
 
 ![](https://komarev.com/ghpvc/?username=linux8a)

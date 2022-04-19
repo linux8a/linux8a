@@ -26,10 +26,10 @@
 }
 </style> -->
 
-<div class="dj-banner">
+<!-- <div class="dj-banner">
     <div class="dj-bg">
         <img src="" alt="" height="400px">
-        <div class="dj-text">
+        <div class="dj-text"> -->
 <h2 style="color:black;" align="center"> <span style="color:dark;font-weight:bold">".. With humility consider others superior to you.."</span> </h2>
 <h3 style="color:black;"align="center">👆🏻 Motto to Live By:</h3>
 <div>
@@ -41,9 +41,9 @@
     </div>
   </section>
 </div>
-        </div>
+        <!-- </div>
     </div>            
-</div>
+</div> -->
 
 
 -----

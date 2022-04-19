@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 #intro .intro-content .btn-get-started, #intro .intro-content .btn-projects {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
@@ -24,7 +24,7 @@
   background: #95b4bb;
   border: 4px solid #1e5762;
 }
-</style>
+</style> -->
 
 <div class="dj-banner">
     <div class="dj-bg">

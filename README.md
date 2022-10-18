@@ -63,12 +63,12 @@
 <img src="https://assets.zabbix.com/img/favicon.ico" alt="Zabbix" width="20" height="20"/>  
 
 -----
-
+<!-- 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=linux8a&show_icons=true&theme=dark" alt="linux8a" />
 </a>
-</p>
+</p> -->
 <!-- <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux8a&theme=dark" alt="linux8a" />

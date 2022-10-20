@@ -1,35 +1,3 @@
-<!-- <style>
-#intro .intro-content .btn-get-started, #intro .intro-content .btn-projects {
-  font-family: "Raleway", sans-serif;
-  font-size: 15px;
-  font-weight: bold;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 32px;
-  border-radius: 2px;
-  transition: 0.5s;
-  margin: 0;
-  color: #fff;
-}
-
-#intro .intro-content .btn-get-started {
-  background: transparent;
-  border: 4px solid #1e5762;
-  color: black;
-}
-
-#intro .intro-content .btn-get-started:hover {
-  background: none;
-  color: #000;
-  background: #95b4bb;
-  border: 4px solid #1e5762;
-}
-</style> -->
-
-<!-- <div class="dj-banner">
-    <div class="dj-bg">
-        <img src="" alt="" height="400px">
-        <div class="dj-text"> -->
 <h2 style="color:black;" align="center"> <span style="color:dark;font-weight:bold">".. With humility consider others superior to you.."</span> </h2>
 <h3 style="color:black;"align="center">👆🏻 Motto to Live By:</h3>
 <div>
@@ -63,31 +31,8 @@
 <img src="https://assets.zabbix.com/img/favicon.ico" alt="Zabbix" width="20" height="20"/>  
 
 -----
-<!-- 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=linux8a&show_icons=true&theme=dark" alt="linux8a" />
-</a>
-</p> -->
-<!-- <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux8a&theme=dark" alt="linux8a" />
-</a>
-</p> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linux8a&column=3" alt="codeshard" />
-</p> -->
 
 ![](https://komarev.com/ghpvc/?username=linux8a)
-
-
-
-<!-- <div class="header-image lazyloaded" style="background-image: url(&quot;./img/logo.jpg&quot;);" data-bg="./img/logo.jpg"><div class="header-image-container"><div class="site-branding"><p class="site-title"> <a href="" rel="home">The Digital Mike</a></p><p class="site-description">jjjjjjjjjjjjjjjjjjjjjjjjj
-dddddddddddddddddddddddddddddd</p></div> </div></div> -->
-
-
-
-
 
 </div>
 </div>
